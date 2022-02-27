@@ -1,0 +1,7 @@
+build/
+
+.vscode
+vscode
+.vscode/
+
+zig-cache/
